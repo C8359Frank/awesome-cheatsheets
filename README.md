@@ -12,7 +12,7 @@ I usually make a cheat sheet when I want to improve my skills in a programming l
 
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
-## 📚 Table of Contents
+## 📚 Table of Content.
 
 ### 📃 Languages
 
